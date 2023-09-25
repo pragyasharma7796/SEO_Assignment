@@ -1,0 +1,44 @@
+What is SEO:-
+SEO stands for Search Engine Optimization. It helps you optimize your websites so that they have better
+rankings on Search Engines like Google, Bing and Yahoo.
+
+The ultimate goal of SEO is to rank higher in search engine results pages for relevant keywords and phrases,
+which can increase visibility, traffic, and ultimately revenue for the website.
+
+It is essential for businesses that want to succeed in the digital age. In HTML, a common way to help search
+engines is to include document titles and some important meta tags.
+
+Meta tags are important for SEO because they provide information to search engines about the content on your
+site and can help improve your websites visibility and ranking in search engine results pages
+
+The <head> tag in HTML:- It is indeed an element that contains important information and metadata about the
+document. It is placed between the <html> tag and the <body> tag. The <head> tag typically includes various
+elements that provide additional Information and instructions to the web browser and search engines.
+The head tag in HTML can consist of a Meta tag, tile tag, script tag, and so on.
+
+The title, link, style, and meta are some of the tags that are commonly used inside the head tag.
+Let’s understand them (title, link, style, and meto) in detail.
+
+The title tag <title>: The ‘title’ tag specifies the title of the document, which is displayed as the page title in
+the browser’s title bar or tab. It helps users identify the webpage and search engines understand the page’s
+content.
+
+ The link tag <link>: The <link> tag is used to reference external resources such as CSS stylesheets, icon files
+(favicon), or alternate versions of the page for different devices or languages.
+
+The style tag <styte>: The <style> tag is used to define internal CSS styles that are applied to the
+document. It allows you to specify custom styling rules for elements on the page.
+
+The meta tag <meta>: The <meta> tag provides metadata about the document, including character
+encoding, viewport settings for responsive design, author information, keywords, and descriptions for search
+engines.
+
+These elements within the <head> tag are essential for providing relevant Information, optimizing the
+document for search engines, and controlling various aspects of the web pages presentation and
+behaviour.
+
+Its important to note that the <head> tag does not directly affect the visible content of the webpage but
+plays a crucial role in enhancing the user experience, improving search engine visibility, and controlling the
+presentation and functionality of the document.
+The head tag in HTML is a crucial element for Search Engine Optimization (SEO) as it provides important
+information and signals to search engines about the web pages content
